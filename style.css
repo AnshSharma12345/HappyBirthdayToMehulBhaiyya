@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+    color: #fff;
+}
+
+html{
+    background-image: url(Wood%20and%20Presents%20Background%20Picture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -100;
+}
+
+.area{
+    font-size: 135px;
+    font font-weight: bold;
+}
+   
+.one{
+    padding-left: 2%;
+}
+
+.name{font-size: 150px;
+    padding-right: 25%;
+    text-align: left;
+    color: aqua;
+}
+
+
+.det{
+    font-size: 24px;
+    letter-spacing: 2px;
+    margin-bottom: 150px;
+    padding: 10%;
+    text-align:left;
+    width: 850px
+}
+
+.imgarea{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 150px;
+}
+
+.img{
+    width: 50%;
+    margin-top: 80px;
+}
+
+img{
+    width: 100%;
+}
+
+
+.right{
+    margin-left: 50%;
+}
